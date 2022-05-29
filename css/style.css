@@ -263,3 +263,21 @@ span{
     width: 2rem;
     transform: rotate(60deg);
 }
+.wallet-logo{
+    width: 10rem;
+}
+.ion-margin{
+    margin-right: .5rem;
+}
+.master-card{
+    width: 2.5rem;
+}
+.QR-code{
+    width: 5rem;
+    margin-left: 1rem;
+
+}
+.chat-boat{
+    float: right !important;
+
+}
